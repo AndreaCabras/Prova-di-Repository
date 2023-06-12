@@ -1,0 +1,5 @@
+#Directory
+/temp
+
+#File (questo è un commento)
+*.log
